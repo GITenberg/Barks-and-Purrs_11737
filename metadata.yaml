@@ -1,0 +1,38 @@
+_repo: Barks-and-Purrs_11737
+_version: 0.0.1
+alternative_title: Sept dialogues de bêtes. English
+contributor:
+  translator:
+    agent_name: Kelly, Maire Monica
+    birthdate: 1876
+    gutenberg_agent_id: '36823'
+    url: http://www.gutenberg.org/2009/agents/36823
+creator:
+  author:
+    agent_name: Colette
+    aliases:
+    - Jouvenel, Gabrielle Claudine Colette de
+    - Gauthier-Villars, Henry, Mme
+    - Willy, Colette
+    - Colette, Sidonie Gabrielle
+    birthdate: 1873
+    deathdate: 1954
+    gutenberg_agent_id: '2065'
+    url: http://www.gutenberg.org/2009/agents/2065
+    wikipedia: http://en.wikipedia.org/wiki/Colette
+description: ''
+gutenberg_issued: '2004-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '11737'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Dogs -- Fiction'
+- !lcc 'PQ'
+- !lcsh 'Cats -- Fiction'
+- GITenberg
+title: Barks and Purrs
+url: http://www.gutenberg.org/ebooks/11737
